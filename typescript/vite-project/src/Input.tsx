@@ -6,7 +6,7 @@ type InputProps = {
   placeholder?: string;
   onChange?: React.ChangeEventHandler<HTMLInputElement>;
 };
-
+console.log("AA")
 const INPUT_STYLES = {
   container: { marginBottom: '10px' },
   label: { display: 'block', marginBottom: '5px' },
