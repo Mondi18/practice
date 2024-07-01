@@ -12,6 +12,8 @@ const INPUT_STYLES = {
   label: { display: 'block', marginBottom: '5px' },
   input: { padding: '8px', fontSize: '16px' },
 };
+console.log("AAAA");
+
 
 const props = (style: object) => ({ style });
 
